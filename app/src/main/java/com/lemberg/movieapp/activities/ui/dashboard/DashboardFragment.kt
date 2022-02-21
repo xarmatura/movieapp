@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.activities.ui.dashboard
+package com.lemberg.movieapp.activities.ui.dashboard
 
 import android.os.Bundle
 import android.view.LayoutInflater

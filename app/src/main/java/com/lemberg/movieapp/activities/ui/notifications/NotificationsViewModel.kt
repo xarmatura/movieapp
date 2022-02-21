@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.activities.ui.notifications
+package com.lemberg.movieapp.activities.ui.notifications
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

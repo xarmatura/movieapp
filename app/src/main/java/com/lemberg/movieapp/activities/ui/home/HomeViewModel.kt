@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.activities.ui.home
+package com.lemberg.movieapp.activities.ui.home
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

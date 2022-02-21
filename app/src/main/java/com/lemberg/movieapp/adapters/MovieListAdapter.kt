@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.adapters
+package com.lemberg.movieapp.adapters
 
 class MovieListAdapter {
 }

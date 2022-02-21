@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.activities.ui.notifications
+package com.lemberg.movieapp.activities.ui.notifications
 
 import android.os.Bundle
 import android.view.LayoutInflater

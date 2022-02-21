@@ -1,4 +1,4 @@
-package com.lemberg.movieapp.ui.activities.ui.home
+package com.lemberg.movieapp.activities.ui.home
 
 import android.os.Bundle
 import android.view.LayoutInflater
